@@ -1,0 +1,21 @@
+.side-bar {
+    height: 100%;
+    width: 350px;
+    background-color: #e6e5e5;
+}
+
+.side-bar.mobile {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 999999;
+}
+
+.side-bar.tablet {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999999;
+}

@@ -1,0 +1,11 @@
+.mal-car-header {
+    width: 100%;
+    height: 50px;
+    background-color: #e6e5e5;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
